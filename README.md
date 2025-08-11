@@ -1,1 +1,0 @@
-# Medical-Store-Shop-System-Database-
